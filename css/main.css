@@ -71,7 +71,7 @@ header p{
 }
 
 .Menu {
-	background color: rgba(207, 205, 140, 0.5);	
+	background-color: rgba(207, 205, 140, 0.5);
 }
 
 .Menu dt {
@@ -86,13 +86,10 @@ header p{
 }
 
 footer {
-	background color: #FC892F;
+	text-align: right;
+	background-color: #FC892F;
 	border-top: 5px #EC791F;
 	font-size: 80%;
-}
-
-footer p {
-    text-align: right;
 }
 
 .General, .Menu, .About, footer  {
