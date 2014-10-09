@@ -56,14 +56,11 @@ main {
 	opacity: 0.9
 }
 
-header {
-	padding-left: 1em;
-	padding-right: 1em;
-	padding-bottom: 1em;
-	padding-top: 1em;
+header {	
+	padding: 1em;
 	background-color:#FA5A0F;
 	color: #FFFFFF;
-	border-bottom: 5px ##EA4A00;
+	border-bottom: 5px solid #EA4A00;
 }
 
 header p{
