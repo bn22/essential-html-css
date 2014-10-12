@@ -43,7 +43,7 @@ h3{
 	font-size: 125%;
 }
 
-header p, h1 {
+header p, h1, h2 {
 	margin: 0;
 }
 
@@ -86,14 +86,11 @@ header p{
 footer {
 	text-align: right;
 	background-color: #FC892F;
-	border-top: 5px #EC791F;
+	border-top: 5px solid #EC791F;
 	font-size: 80%;
 }
 
 .General, .Menu, .About, footer  {
-	padding-left: 1em;
-	padding-right: 1em;
-	padding-bottom: 1em;
-	padding-top: 1em;
+	padding: 1em;
 }
 
