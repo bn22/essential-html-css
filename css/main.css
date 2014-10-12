@@ -19,7 +19,7 @@ a:hover, input:focus {
 } 
 
 a:link, a:visited, a:hover, input:focus {
-   	text-decoration:none;
+   	text-decoration: none;
 }
 
 h1, h2, h3{
