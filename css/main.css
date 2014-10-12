@@ -57,7 +57,6 @@ main {
 }
 
 header {	
-	padding: 1em;
 	background-color:#FA5A0F;
 	color: #FFFFFF;
 	border-bottom: 5px solid #EA4A00;
@@ -90,7 +89,7 @@ footer {
 	font-size: 80%;
 }
 
-.General, .Menu, .About, footer  {
+.General, .Menu, .About, footer, header  {
 	padding: 1em;
 }
 
